@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import express from 'express';
 import proverbRoutes from './routes/proverbRoutes.js';
 
@@ -13,4 +14,21 @@ app.get('/', (req, res) => {
 
 app.listen(PORT, () => {
     console.log('Server running on port', PORT);
+=======
+import express from 'express';
+import proverbRoutes from './routes/proverbRoutes.js';
+
+const app = express();
+const PORT = process.env.PORT || 3001;
+
+app.use(express.json());
+app.use('/proverbs', proverbRoutes);
+
+app.get('/', (req, res) => {
+    res.send('Afghan Proverbs API');
+});
+
+app.listen(PORT, () => {
+    console.log('Server running on port', PORT);
+>>>>>>> 0b69576349ea3b138cb251b3955d2b5561d694c0
 });

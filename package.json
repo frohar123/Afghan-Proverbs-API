@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {  
+=======
+{
+>>>>>>> 0b69576349ea3b138cb251b3955d2b5561d694c0
   "name": "api-backend",
   "version": "1.0.0",
   "type": "module",
