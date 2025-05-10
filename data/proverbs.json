@@ -1,0 +1,123 @@
+{
+  "proverbs": [
+    {
+      "id": 1,
+      "textDari": "با یک دست دو تربوز نمی‌توان گرفت",
+      "textPashto": "په یوه لاس دو هیندوانی نه شي نیول کېدای",
+      "translationEn": "You cannot hold two watermelons in one hand",
+      "meaning": "You cannot do two difficult tasks at once.",
+      "categories": [
+        "wisdom",
+        "advice"
+      ]
+    },
+    {
+      "id": 2,
+      "textDari": "هر که بامش بیش، برفش بیشتر",
+      "textPashto": "څوک چې کور یې لوړ وي، واوره یې زیاته وي",
+      "translationEn": "The higher the roof, the more snow it collects",
+      "meaning": "Greater responsibilities come with greater status.",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": 3,
+      "textDari": "دوست آنست که گیرد دست دوست",
+      "textPashto": "ملګری هغه دی چې د ملګري لاس ونیسي",
+      "translationEn": "A friend is one who takes a friend's hand",
+      "meaning": "A true friend supports you in times of need.",
+      "categories": [
+        "friendship",
+        "wisdom"
+      ]
+    },
+    {
+      "id": 4,
+      "textDari": "آهسته برو، سالم برس",
+      "textPashto": "په ارام روان شه، روغ ورسېږه",
+      "translationEn": "Go slowly, arrive safely",
+      "meaning": "Patience and care lead to better outcomes.",
+      "categories": [
+        "advice",
+        "patience"
+      ]
+    },
+    {
+      "id": 5,
+      "textDari": "از کوزه همان برون تراود که در اوست",
+      "textPashto": "له کوزې هغه راوځي چې په کې دننه وي",
+      "translationEn": "What comes out of the jug is what’s inside it",
+      "meaning": "A person's true nature is revealed by their actions.",
+      "categories": [
+        "wisdom",
+        "character"
+      ]
+    },
+    {
+      "id": 6,
+      "textDari": "شجاعت در میدان جنگ معلوم می‌شود",
+      "textPashto": "زړورتیا په جګړه کې معلومېږي",
+      "translationEn": "Courage is proven on the battlefield",
+      "meaning": "True bravery is shown in challenging situations.",
+      "categories": [
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": 7,
+      "textDari": "چراغ که دو باشد، روشن‌تر است",
+      "textPashto": "چراغ که دو وي، روښانه وي",
+      "translationEn": "Two lamps are brighter than one",
+      "meaning": "Collaboration yields better results than working alone.",
+      "categories": [
+        "cooperation",
+        "wisdom"
+      ]
+    },
+    {
+      "id": 8,
+      "textDari": "یک گل بهار نمی‌آورد",
+      "textPashto": "یو ګل پسرلی نه راولي",
+      "translationEn": "One flower does not bring spring",
+      "meaning": "A single effort is not enough to achieve great change.",
+      "categories": [
+        "effort",
+        "patience"
+      ]
+    },
+    {
+      "id": 9,
+      "textDari": "سگ زنده بهتر از شیر مرده است",
+      "textPashto": "ژوندی سپي له مړ زمري غوره دی",
+      "translationEn": "A living dog is better than a dead lion",
+      "meaning": "Survival and humility are more valuable than prideful defeat.",
+      "categories": [
+        "wisdom",
+        "humility"
+      ]
+    },
+    {
+      "id": 10,
+      "textDari": "تا نباشد چیزکی، مردم نگویند چیزها",
+      "textPashto": "تر څو چې یو څه نه وي، خلک به څه نه وايي",
+      "translationEn": "If there is nothing, people will say nothing",
+      "meaning": "Gossip arises only when there is some truth or action to fuel it.",
+      "categories": [
+        "wisdom",
+        "society"
+      ]
+    },
+    {
+      "id": 11,
+      "textDari": "دوست از دوست خبر دارد",
+      "textPashto": "ملګری له ملګري خبر لري",
+      "translationEn": "A friend knows a friend",
+      "meaning": "Friends understand each other deeply.",
+      "categories": [
+        "friendship"
+      ]
+    }
+  ]
+}
