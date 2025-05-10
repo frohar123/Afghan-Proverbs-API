@@ -12,11 +12,6 @@ A RESTful API to manage traditional Afghan proverbs and sayings in Dari, Pashto,
 - Add a new proverb (POST /proverbs).
 - Update an existing proverb (PUT /proverbs/:id).
 - Delete a proverb (DELETE /proverbs/:id).
-- Get all categories (/categories).
-- Get a category by ID (/categories/:id).
-- Add a new category (POST /categories).
-- Update an existing category (PUT /categories/:id).
-- Delete a category (DELETE /categories/:id).
 - Support for multiple categories per proverb.
 
 ## Tech Stack
